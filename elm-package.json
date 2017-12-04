@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Combinator-style JSON encoders",
+    "repository": "https://github.com/matthewsj/encoder-combinator.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Json.Encode.Combinator"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
